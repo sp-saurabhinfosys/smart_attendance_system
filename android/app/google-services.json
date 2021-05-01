@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550425255459",
+    "project_id": "attendance-system-81ac9",
+    "storage_bucket": "attendance-system-81ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550425255459:android:e1473a9c3fe4ececf99b96",
+        "android_client_info": {
+          "package_name": "com.saurabhinfosys.smart_attendance_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550425255459-t2tko580citp07sduq713cqpa9614r0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0oI31JXHLA8lUI-J8f2pjOwLPF6OaT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550425255459-t2tko580citp07sduq713cqpa9614r0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
